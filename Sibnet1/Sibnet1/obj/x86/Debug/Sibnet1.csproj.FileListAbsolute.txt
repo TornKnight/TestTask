@@ -1,0 +1,6 @@
+E:\Users\Torn Knight\Desktop\Sibnet\Sibnet1\Sibnet1\bin\Debug\Sibnet1.exe
+E:\Users\Torn Knight\Desktop\Sibnet\Sibnet1\Sibnet1\bin\Debug\Sibnet1.pdb
+E:\Users\Torn Knight\Desktop\Sibnet\Sibnet1\Sibnet1\obj\x86\Debug\Sibnet1.exe
+E:\Users\Torn Knight\Desktop\Sibnet\Sibnet1\Sibnet1\obj\x86\Debug\Sibnet1.pdb
+E:\Users\Torn Knight\Desktop\Sibnet\Sibnet1\Sibnet1\obj\x86\Debug\Sibnet1.csprojResolveAssemblyReference.cache
+E:\Users\Torn Knight\Desktop\Sibnet\Sibnet1\Sibnet1\bin\Debug\Program.cs
